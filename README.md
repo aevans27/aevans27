@@ -88,8 +88,8 @@
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-evans-2c/)](https://www.linkedin.com/in/allan-evans-2c/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:oneblankpage27@gmail.com)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-Allan_Evans-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-evans-2c/)](https://www.linkedin.com/in/allan-evans-2c/)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-oneblankpage27@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:oneblankpage27@gmail.com)&nbsp;
 
 </div>
 
