@@ -1,6 +1,6 @@
 <div>
 🔴🟡🟢
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">Hello There I'm Allan Evans<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 <br>
 
 </div>
@@ -29,6 +29,7 @@
   - 🌱  I’m always studying **Ruby**, **Swift**, **Kotlin**, **Java**, **Objective-C**.
 
   - 💬 Always happy to learn **any technology**.
+  - 🤔 Still a novice at markdown **as you can see**.
 
   <br>
   
