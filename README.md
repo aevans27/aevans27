@@ -26,7 +26,7 @@
   - 📚 I'm a experienced developer looking for work.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
-  - 🌱  I’m always studying **Ruby**, **Swift**, **Kotlin**, **Java**, **Objective-C**.
+  - 🌱  I have experience in **Ruby**, **Swift**, **Kotlin**, **Java**, **Objective-C**.
 
   - 💬 Always happy to learn **any technology**.
   - 🤔 Still a novice at markdown **as you can see**.
@@ -46,7 +46,7 @@
   ## 📚 &nbsp;Currently studying
 
   - Ruby on Rails
-  - React
+  - React Native
   - Backend Development
   - TDD
 
